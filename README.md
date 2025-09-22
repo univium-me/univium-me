@@ -1,11 +1,7 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2399fcd6-0f68-4920-8bc5-fca7c13d82ca" /># ⚾ Opa! Eu sou o Uni
+# ⚾ Opa! Eu sou o Uni
 
-<a href="https://github.com/univium-me/univium-me/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/univium-me/univium-me/refs/heads/main/uni_cartao.png">
-    <img alt="Uni README" src="https://raw.githubusercontent.com/univium-me/univium-me/refs/heads/main/uni_cartao2.png">
-  </picture>
-</a>
+![modo claro](uni_cartao2.png#gh-light-mode-only)
+![modo escuro](uni_cartao.png#gh-dark-mode-only)
 
 ## Minhas Tecnologias Favoritas ⚙️
 <div align="center">

@@ -124,3 +124,9 @@ Inicializando interface...
   </tr>
 </table>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/univium-me/univium-me/refs/heads/main/uni.gif" alt="Uni Character" width="80"/>
+</div>
+<div align="center">
+<strong>Obrigado por visitar meu perfil! 🚀

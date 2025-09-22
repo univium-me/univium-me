@@ -35,28 +35,28 @@
 ## > Executando perfil_usuario.exe...
 
 <pre>
-[████████████████████████████████████████] 100%
+[██████████████████████████████] 100%
 
 Carregando dados do sistema...
 Conectando ao servidor...
 Inicializando interface...
 
-███████████████████████████████████████████████████████████
-█ SISTEMA OPERACIONAL: GITHUB v2025                       █
-█ USUARIO CONECTADO: Uni                                  █
-█ STATUS: ONLINE                                          █
-███████████████████████████████████████████████████████████
+██████████████████████████████████████
+█ SISTEMA OPERACIONAL: GITHUB v2025  █
+█ USUARIO CONECTADO: Uni             █
+█ STATUS: ONLINE                     █
+██████████████████████████████████████
 
 > Exibindo informações do usuário...
 
-┌─────────────────────────────────────────┐
-│  DADOS PESSOAIS                         │
-├─────────────────────────────────────────┤
-│  Nome: Uni                              │
-│  Formação: Filosofia EAD                │
-│  Idade: 32 anos                         │
-│  Status: Aprendendo programação         │
-└─────────────────────────────────────────┘
+┌──────────────────────────────────────┐
+│  DADOS PESSOAIS                      │
+├──────────────────────────────────────┤
+│  Nome: Uni                           │
+│  Formação: Filosofia EAD             │
+│  Idade: 32 anos                      │
+│  Status: Aprendendo programação      │
+└──────────────────────────────────────┘
   
 > Carregamento completo :)
 </pre>

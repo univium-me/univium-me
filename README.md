@@ -1,4 +1,4 @@
-# ⚾ Opa! Eu sou Uni
+# ⚾ Opa! Eu sou o Uni
 
 <div align="center">
 <pre style="color: #00FF00;">

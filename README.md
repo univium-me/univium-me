@@ -1,6 +1,6 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2399fcd6-0f68-4920-8bc5-fca7c13d82ca" /># ⚾ Opa! Eu sou o Uni
 
-<a href="https://github.com/Andrew6rant/Andrew6rant">
+<a href="https://github.com/univium-me/univium-me/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/univium-me/univium-me/refs/heads/main/uni_cartao.png">
     <img alt="Uni README" src="https://raw.githubusercontent.com/univium-me/univium-me/refs/heads/main/uni_cartao2.png">

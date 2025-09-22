@@ -126,7 +126,7 @@ Inicializando interface...
 </div>
 
 <div align="center">
-  <img src="https://sofatomoveis.com/gifUni/uni.gif" alt="Uni Character" width="80"/>
+  <img src="https://camo.githubusercontent.com/859f893e30c7b142cf2880922c4e89634aab06c4996203a18d0d11e0c17ff42a/68747470733a2f2f736f6661746f6d6f766569732e636f6d2f676966556e692f756e692e676966" alt="Uni Character" width="80"/>
 </div>
 <div align="center">
 <strong>Obrigado por visitar meu perfil! 🚀

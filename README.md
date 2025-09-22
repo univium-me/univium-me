@@ -1,65 +1,8 @@
 # ⚾ Opa! Eu sou o Uni
 
 <div align="center">
-<pre style="color: #00FF00;">
-              @@@@@@@@              
-          @%==:.......==%@%         
-       %@*...............=+@%       
-     @%:.=*.:..........:=++=:%@     
-    @#...-+#..........-=*-=...*@    
-   @*.....*#=.........:--=.....*@   
- %+@@@@@@@@@@@@@%::-%@@@@@@@@@@@@*% 
- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
- %@@@@@@@@@@@@@@@...@@@@@@@@@@@@@@# 
- @@@@@@@@@@@@@@@:...:@@@@@@@@@@@@@@ 
- @@-#@@@@@@@@@*:.....:#@@@@@@@@@=@@ 
-  %#-:====+%+.........:*#++===--*@  
-  %%+-:..:*+...........:**:-.:-+%@  
-    @---:+=..............*+=*--@    
-     @*+*+:::..........:::++#%%     
-       @#----::::::::::----+@%      
-         %%%------------#%%         
-  =+++++++++*#%%@@@@@%##+++++++==   
-         +=++++======+==++=         
-</pre>
+<img src="https://raw.githubusercontent.com/univium-me/univium-me/refs/heads/main/uni_cartao.png">
 </div>
-
-<div align="center">
-
-<a href="https://www.instagram.com/univium_/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-
-</div>
-
-## > Executando perfil_usuario.exe...
-
-<pre>
-[██████████████████████████████] 100%
-
-Carregando dados do sistema...
-Conectando ao servidor...
-Inicializando interface...
-
-██████████████████████████████████████
-█ SISTEMA OPERACIONAL: GITHUB v2025  █
-█ USUARIO CONECTADO: Uni             █
-█ STATUS: ONLINE                     █
-██████████████████████████████████████
-
-> Exibindo informações do usuário...
-
-┌──────────────────────────────────────┐
-│  DADOS PESSOAIS                      │
-├──────────────────────────────────────┤
-│  Nome: Uni                           │
-│  Formação: Filosofia EAD             │
-│  Idade: 32 anos                      │
-│  Status: Aprendendo programação      │
-└──────────────────────────────────────┘
-  
-> Carregamento completo :)
-</pre>
 
 ## Minhas Tecnologias Favoritas ⚙️
 <div align="center">
@@ -129,4 +72,11 @@ Inicializando interface...
   <img src="https://camo.githubusercontent.com/859f893e30c7b142cf2880922c4e89634aab06c4996203a18d0d11e0c17ff42a/68747470733a2f2f736f6661746f6d6f766569732e636f6d2f676966556e692f756e692e676966" alt="Uni Character" width="80"/>
 </div>
 <div align="center">
-<strong>Obrigado por visitar meu perfil! 🚀
+  <a href="https://www.instagram.com/univium_/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+  </div>
+<div align="center">
+  <strong>Obrigado por visitar meu perfil! 🚀</strong>
+</div>
+
